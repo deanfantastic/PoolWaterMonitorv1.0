@@ -1,3 +1,12 @@
+# DFRobot products:
+# Gravity: Analog ORP Sensor Meter For Arduino
+# https://www.dfrobot.com/product-1071.html
+#
+#
+#
+#
+#
+
 #define VOLTAGE 5.00    //system voltage
 #define OFFSET 0        //zero drift voltage
 #define LED 13         //operating instructions
