@@ -2,10 +2,13 @@
 # Gravity: Analog ORP Sensor Meter For Arduino
 # https://wiki.dfrobot.com/Analog_ORP_Meter_SKU_SEN0165_
 #
-#
+# Gravity: Analog pH meter V2
+# https://wiki.dfrobot.com/Gravity__Analog_pH_Sensor_Meter_Kit_V2_SKU_SEN0161-V2
 #
 # Gravity Analog TDS Sensor Meter For Arduino SKU SEN0244
 # https://wiki.dfrobot.com/Gravity__Analog_TDS_Sensor___Meter_For_Arduino_SKU__SEN0244
+
+
 
 #define VOLTAGE 5.00    //system voltage
 #define OFFSET 0        //zero drift voltage
